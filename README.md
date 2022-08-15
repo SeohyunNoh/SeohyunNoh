@@ -1,6 +1,6 @@
 # SeohyunNoh
 
-Hi ! I want to be a **Web Devloper** :muscle:
+Hi ! I want to be a **Web Developer** :muscle:
 
 
 ### :wrench: Skills
